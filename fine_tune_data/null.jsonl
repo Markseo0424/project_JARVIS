@@ -1,0 +1,834 @@
+{"messages": [
+    {
+        "role": "user", 
+        "content": "10분 후에 알려줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "10분 후에 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "10분 후인 오후 6시 20분에 알려드리겠습니다.
+                    !module schedule set x 18:30 Jan 9 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "10분 후에 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 18:30
+                    > Tue Jan 9 18:30:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 6시 20분입니다.
+                    !module myiot alarm on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "5시간 후에 일어나라고 알려줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "5시간 후에 일어나라고 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "5시간 후인 오후 11시 20분에 알려드리겠습니다.
+                    !module schedule set x 23:20"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "5시간 후에 일어나라고 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 23:20
+                    > Tue Jan 9 23:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 11시 20분입니다. 일어날 시간입니다.
+                    !module myiot alarm on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2시간 후에 깨워줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2시간 후에 깨워줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "2시간 후인 오후 8시 20분에 알려드리겠습니다.
+                    !module schedule set x 20:20"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2시간 후에 깨워줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 20:20
+                    > Tue Jan 9 20:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 8시 20분입니다.
+                    !module myiot main on
+                    !module myiot sub on
+                    !module myiot alarm on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 불 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "3시간 후인 오후 9시 20분에 불을 켜드리겠습니다.
+                    !module schedule set x 21:20"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 21:20
+                    > Tue Jan 9 21:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 9시 20분입니다. 불을 켜드리겠습니다.
+                    !module myiot main on
+                    !module myiot sub on
+                    !module myiot closet on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 메인 불 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 메인 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "3시간 후인 오후 9시 20분에 메인 불을 켜드리겠습니다.
+                    !module schedule set x 21:20"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 메인 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 21:20
+                    > Tue Jan 9 21:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 9시 20분입니다. 메인 불을 켜드리겠습니다.
+                    !module myiot main on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 서브 불 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 서브 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "3시간 후인 오후 9시 20분에 서브 불을 켜드리겠습니다.
+                    !module schedule set x 21:20"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 서브 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 21:20
+                    > Tue Jan 9 21:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 9시 20분입니다. 서브 불을 켜드리겠습니다.
+                    !module myiot sub on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "11시간 후에 옷장 불 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "11시간 후에 옷장 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "11시간 후인 1월 10일 오전 5시 20분에 옷장 불을 켜드리겠습니다.
+                    !module schedule set x 05:20 Jan 10 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 옷장 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 05:20 Jan 10 2024
+                    > Tue Jan 10 05:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 5시 20분입니다. 옷장 불을 켜드리겠습니다.
+                    !module myiot closet on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 에어컨 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 에어컨 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "3시간 후인 오후 9시 20분에 에어컨을 켜드리겠습니다.
+                    !module schedule set x 21:20"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "3시간 후에 에어컨 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 21:20
+                    > Tue Jan 9 21:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 9시 20분입니다. 에어컨을 켜드리겠습니다.
+                    !module myiot ac on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "7일 후에 오전 9시에 알려줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "7일 후 오전 9시에 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "7일 후인 1월 16일 오전 9시에 알려드리겠습니다.
+                    !module schedule set x 09:00 Jan 16 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "7일 후에 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 09:00 Jan 16 2024
+                    > Tue Jan 16 09:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 9시입니다.
+                    !module myiot alarm on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2일 후 오후 4시에 물 마시라고 알려줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2일 후 오후 4시에 물 마시라고 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "2일 후인 1월 11일 오후 4시에 물 마시라고 알려드리겠습니다.
+                    !module schedule set x 16:00 Jan 11 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2일 후 오후 4시에 물 마시라고 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 16:00 Jan 11 2024
+                    > Thu Jan 11 16:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 4시입니다. 물 마시실 시간입니다.
+                    !module myiot alarm on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2일 후 오후 4시에 메인 불 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2일 후 오후 4시에 메인 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "2일 후인 1월 11일 오후 4시에 메인 불을 켜드리겠습니다.
+                    !module schedule set x 16:00 Jan 11 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "2일 후 오후 4시에 메인 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 16:00 Jan 11 2024
+                    > Thu Jan 11 16:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 4시입니다.
+                    !module myiot main on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 월요일 오전 11시에 알려줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 월요일 오전 11시에 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "다음 주 월요일인 1월 15일 오전 11시에 알려드리겠습니다.
+                    !module schedule set x 11:00 Jan 15 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 월요일 오전 11시에 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 11:00 Jan 15 2024
+                    > Mon Jan 15 18:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 11시입니다.
+                    !module myiot alarm on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 월요일 오전 11시에 불 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 월요일 오전 11시에 불 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "다음 주 월요일인 1월 15일 오전 11시에 불을 켜드리겠습니다.
+                    !module schedule set x 11:00 Jan 15 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 월요일 오전 11시에 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 11:00 Jan 15 2024
+                    > Mon Jan 15 18:20:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 11시입니다.
+                    !module myiot main on
+                    !module myiot sub on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 토요일 9시에 운동하라고 알려줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 토요일 9시에 운동하라고 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "다음 주 토요일인 1월 20일 오전 9시에 운동하라고 알려드리겠습니다.
+                    !module schedule set x 09:00 Jan 20 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음 주 토요일 9시에 운동하라고 알려줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 09:00 Jan 20 2024
+                    > Sat Jan 20 09:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 9시입니다. 운동하실 시간입니다.
+                    !module myiot alarm on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음주 수요일에 오후 7시에 깨워줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음주 수요일에 오후 7시에 깨워줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "다음주 수요일인 1월 17일 오후 7시에 깨워드리겠습니다.
+                    !module schedule set x 19:00 Jan 17 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음주 수요일에 오후 7시에 깨워줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 19:00 Jan 17 2024
+                    > Wed Jan 17 19:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 7시입니다.
+                    !module myiot main on
+                    !module myiot sub on
+                    !module myiot alarm on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음주 일요일 아침 9시에 알람 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음주 일요일 아침 9시에 알람 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "다음주 일요일인 1월 21일 오전 9시에 알람을 켜드리겠습니다.
+                    !module schedule set x 9:00 Jan 21 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "다음주 일요일 아침 9시에 알람 켜줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 9:00 Jan 21 2024
+                    > Sun Jan 21 09:00:31 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 9시입니다. 알람을 켜드리겠습니다.
+                    !module myiot alarm on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "내일 8시에 깨워줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "!module clock get time"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "내일 8시에 깨워줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "내일 오전 8시에 깨워드리겠습니다.
+                    !module schedule set x 08:00 Jan 10 2024"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "내일 8시에 깨워줘
+                    !module clock get time
+                    > Tue Jan 9 18:20:15 2024
+                    !module schedule set x 08:00 Jan 10 2024
+                    > Wed Jan 10 08:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 8시입니다.
+                    !module myiot main on
+                    !module myiot sub on
+                    !module myiot alarm on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 토요일 오전 8시에 깨워줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "매주 토요일 오전 8시에 깨워드리겠습니다.
+                    !module schedule set Sat 08:00"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 토요일 오전 8시에 깨워줘
+                    !module schedule set Sat 08:00
+                    > Sat Jan 13 08:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 8시입니다.
+                    !module myiot main on
+                    !module myiot sub on
+                    !module myiot alarm on"
+    }
+]}
+
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 수요일 오전 2시에 불 꺼줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "매주 수요일 오전 2시에 불을 꺼드리겠습니다.
+                    !module schedule set Wed 02:00"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 수요일 오전 2시에 불 꺼줘
+                    !module schedule set Wed 02:00
+                    > Wed Jan 10 02:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 2시입니다. 불을 꺼드리겠습니다.
+                    !module myiot main off
+                    !module myiot sub off
+                    !module myiot closet off"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 수요일 오전 2시에 메인 불 꺼줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "매주 수요일 오전 2시에 메인 불을 꺼드리겠습니다.
+                    !module schedule set Wed 02:00"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 수요일 오전 2시에 메인 불 꺼줘
+                    !module schedule set Wed 02:00
+                    > Wed Jan 10 02:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 2시입니다. 메인 불을 꺼드리겠습니다.
+                    !module myiot main off"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 월수금 오전 5시에 메인 불 꺼줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "매주 월요일, 수요일, 금요일 오전 5시에 메인 불을 꺼드리겠습니다.
+                    !module schedule set Mon,Wed,Fri 05:00"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 수요일 오전 5시에 메인 불 꺼줘
+                    !module schedule set Mon,Wed,Fri 05:00
+                    > Wed Jan 10 05:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오전 5시입니다. 메인 불을 꺼드리겠습니다.
+                    !module myiot main off"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 화목금 오후 3시에 불 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "매주 화요일, 목요일, 금요일 오후 3시에 불을 켜드리겠습니다.
+                    !module schedule set Tue,Thu,Fri 15:00"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 화목금 오후 3시에 불 켜줘
+                    !module schedule set Tue,Thu,Fri 15:00
+                    > Thu Jan 11 15:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 3시입니다. 불을 켜드리겠습니다.
+                    !module myiot main on
+                    !module myiot sub on"
+    }
+]}
+
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 화목금 오후 3시에 에어컨 켜줘"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "매주 화요일, 목요일, 금요일 오후 3시에 에어컨을 켜드리겠습니다.
+                    !module schedule set Tue,Thu,Fri 15:00"
+    }
+]}
+{"messages": [
+    {
+        "role": "user", 
+        "content": "매주 화목금 오후 3시에 에어컨 켜줘
+                    !module schedule set Tue,Thu,Fri 15:00
+                    > Thu Jan 11 15:00:25 2024"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "오후 3시입니다. 에어컨을 켜드리겠습니다.
+                    !module myiot ac on"
+    }
+]}

@@ -1,0 +1,74 @@
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 켜줘"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 꺼줘"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줄래??"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 켜줘"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 꺼줘"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줄래??"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 켜줘"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 꺼줘"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줄래??"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 켜"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼져줄래?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼져줘"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 25도로 맞춰줘"}, {"role": "assistant", "content": "\n!module myiot ac_temp 25"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 22도로 맞춰줄래?"}, {"role": "assistant", "content": "\n!module myiot ac_temp 22"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 28도로 맞춰줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot ac_temp 28"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 20도로 맞춰줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot ac_temp 20"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 30도로 맞춰줘"}, {"role": "assistant", "content": "\n!module myiot ac_temp 30"}]}
+{"messages": [{"role": "user", "content": "에어컨 제일 시원하게 틀어"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 18"}]}
+{"messages": [{"role": "user", "content": "에어컨 가장 시원하게 틀어"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 18"}]}
+{"messages": [{"role": "user", "content": "에어컨 24도로 틀어줘"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 24"}]}
+{"messages": [{"role": "user", "content": "에어컨 21도로 틀어줘"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 21"}]}
+{"messages": [{"role": "user", "content": "알람 켜줘"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람을 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람을 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람 끄기"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}
+{"messages": [{"role": "user", "content": "알람을 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}
+{"messages": [{"role": "user", "content": "알람을 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}
+{"messages": [{"role": "user", "content": "알람을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}

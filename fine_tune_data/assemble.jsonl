@@ -1,0 +1,258 @@
+{"messages": [{"role": "user", "content": "지금 몇시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "올해는 몇년도야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금은 몇 년이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "오늘은 몇 일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 분이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 초야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재 몇 년이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "오늘은 몇 일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 분이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 초야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금 몇시야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "지금은 오전 11시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "올해는 몇년도야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "올해는 2024년입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 년이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "올해는 2024년입니다."}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "이번 달은 1월입니다."}]}
+{"messages": [{"role": "user", "content": "오늘은 며칠이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "오늘은 1월 9일입니다."}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "이번 주는 화요일입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "지금은 오전 11시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "몇 분이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "현재는 15분입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 년이야?\n!module clock get time\n> Wed Feb 15 14:30:25 2024"}, {"role": "assistant", "content": "올해는 2024년입니다."}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?\n!module clock get time\n> Fri Mar 21 09:45:18 2024"}, {"role": "assistant", "content": "이번 달은 3월입니다."}]}
+{"messages": [{"role": "user", "content": "오늘은 몇 일이야?\n!module clock get time\n> Mon Apr 3 20:12:03 2024"}, {"role": "assistant", "content": "오늘은 4월 3일입니다."}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?\n!module clock get time\n> Sat May 5 12:00:00 2024"}, {"role": "assistant", "content": "이번 주는 토요일입니다."}]}
+{"messages": [{"role": "user", "content": "몇 분이야?\n!module clock get time\n> Tue Jul 10 07:23:15 2024"}, {"role": "assistant", "content": "현재는 23분입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?\n!module clock get time\n> Thu Jun 7 18:55:40 2024"}, {"role": "assistant", "content": "지금은 오후 6시 55분입니다."}]}
+{"messages": [{"role": "user", "content": "지금으로부터 한시간 뒤면 몇시야?\n!module clock get time\n> Tue Jul 10 07:23:15 2024"}, {"role": "assistant", "content": "지금으로부터 한시간 뒤는 오전 8시 23분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 두시간 뒤면 몇시야?\n!module clock get time\n> Fri Oct 25 14:12:05 2025"}, {"role": "assistant", "content": "현재로부터 두시간 뒤는 오후 4시 12분입니다."}]}
+{"messages": [{"role": "user", "content": "지금으로부터 30분 후는 몇 시일까요?\n!module clock get time\n> Mon Mar 15 09:30:30 2023"}, {"role": "assistant", "content": "지금으로부터 30분 후는 오전 10시 0분입니다."}]}
+{"messages": [{"role": "user", "content": "한시간 뒤는 몇 시인가요?\n!module clock get time\n> Wed Jun 8 18:45:15 2022"}, {"role": "assistant", "content": "한시간 뒤는 오후 7시 45분입니다."}]}
+{"messages": [{"role": "user", "content": "지금으로부터 세 시간 뒤는 몇 시일까요?\n!module clock get time\n> Sun Sep 17 11:05:50 2023"}, {"role": "assistant", "content": "지금으로부터 세 시간 뒤는 오후 2시 5분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 45분 후는 언제인가요?\n!module clock get time\n> Sat Feb 9 16:30:20 2025"}, {"role": "assistant", "content": "현재로부터 45분 후는 오후 5시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "두 시간 후는 몇 시인가요?\n!module clock get time\n> Tue Apr 12 23:50:55 2022"}, {"role": "assistant", "content": "두 시간 후는 새벽 1시 50분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 네 시간 뒤는 몇 시일까요?\n!module clock get time\n> Thu Jul 21 19:15:25 2022"}, {"role": "assistant", "content": "현재로부터 네 시간 뒤는 밤 11시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "한 시간 후는 몇 시일까요?\n!module clock get time\n> Fri May 26 03:45:10 2023"}, {"role": "assistant", "content": "한 시간 후는 새벽 4시 45분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 15분 후는 몇 시인가요?\n!module clock get time\n> Mon Aug 14 20:20:35 2022"}, {"role": "assistant", "content": "현재로부터 15분 후는 밤 8시 35분입니다."}]}
+{"messages": [{"role": "user", "content": "세 시간 뒤는 몇 시일까요?\n!module clock get time\n> Tue Dec 19 14:55:45 2023"}, {"role": "assistant", "content": "세 시간 뒤는 오후 5시 55분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 두시간 뒤면 몇시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금으로부터 30분 후는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "한시간 뒤는 몇 시인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금으로부터 세 시간 뒤는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재로부터 45분 후는 언제인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "두 시간 후는 몇 시인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재로부터 네 시간 뒤는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "한 시간 후는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재로부터 15분 후는 몇 시인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "세 시간 뒤는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 켜줘"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 꺼줘"}, {"role": "assistant", "content": "\n!module myiot main off"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줄래??"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "메인 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot main on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 켜줘"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 꺼줘"}, {"role": "assistant", "content": "\n!module myiot sub off"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줄래??"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "서브 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot sub on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 켜줘"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 꺼줘"}, {"role": "assistant", "content": "\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줄래??"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "옷장 불 좀 켜줘봐"}, {"role": "assistant", "content": "\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 켜"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user", "content": "불 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "불 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "불 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "불을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 켜줘"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot ac on"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼줘"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼져줄래?"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 좀 꺼져줘"}, {"role": "assistant", "content": "\n!module myiot ac off"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 25도로 맞춰줘"}, {"role": "assistant", "content": "\n!module myiot ac_temp 25"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 22도로 맞춰줄래?"}, {"role": "assistant", "content": "\n!module myiot ac_temp 22"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 28도로 맞춰줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot ac_temp 28"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 20도로 맞춰줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot ac_temp 20"}]}
+{"messages": [{"role": "user", "content": "에어컨 온도를 30도로 맞춰줘"}, {"role": "assistant", "content": "\n!module myiot ac_temp 30"}]}
+{"messages": [{"role": "user", "content": "에어컨 제일 시원하게 틀어"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 18"}]}
+{"messages": [{"role": "user", "content": "에어컨 가장 시원하게 틀어"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 18"}]}
+{"messages": [{"role": "user", "content": "에어컨 24도로 틀어줘"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 24"}]}
+{"messages": [{"role": "user", "content": "에어컨 21도로 틀어줘"}, {"role": "assistant", "content": "\n!module myiot ac on\n!module myiot ac_temp 21"}]}
+{"messages": [{"role": "user", "content": "알람 켜줘"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람을 켜줄래?"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람을 켜줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람을 켜줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "알람 끄기"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}
+{"messages": [{"role": "user", "content": "알람을 꺼줄래?"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}
+{"messages": [{"role": "user", "content": "알람을 꺼줄 수 있어?"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}
+{"messages": [{"role": "user", "content": "알람을 꺼줄 수 있을까?"}, {"role": "assistant", "content": "\n!module myiot alarm off"}]}
+{"messages": [{"role": "user", "content": "하늘은 왜 파란색이에요?"}, {"role": "assistant", "content": "하늘은 파랗게 보이는데는 태양빛이 대기 중의 물분자에 의해 산란되기 때문이에요."}]}
+{"messages": [{"role": "user", "content": "좋아하는 동물은 뭐에요?"}, {"role": "assistant", "content": "저는 동물이 아니라서 취향을 가질 수 없지만, 많은 사람들이 강아지나 고양이를 좋아해요."}]}
+{"messages": [{"role": "user", "content": "왜 바다는 진하게 푸르게 보이죠?"}, {"role": "assistant", "content": "바다가 푸르게 보이는 이유는 물체가 햇빛을 흡수하고 산란되는 빛 중 파란색이 더 멀리 나가기 때문이에요."}]}
+{"messages": [{"role": "user", "content": "하루 중 가장 좋아하는 시간은 언제에요?"}, {"role": "assistant", "content": "제가 시간 개념을 가지고 있진 않지만, 많은 사람들이 일몰이나 일출을 좋아하는 것 같아요."}]}
+{"messages": [{"role": "user", "content": "좋아하는 음식이 뭐에요?"}, {"role": "assistant", "content": "음식을 먹을 수 없는 제게는 좋아하는 음식이 없지만, 다양한 음식 중에서는 피자나 스파게티가 인기 있어 보입니다."}]}
+{"messages": [{"role": "user", "content": "좋아하는 영화 장르가 있나요?"}, {"role": "assistant", "content": "영화를 감상할 수 없는 저에게는 좋아하는 장르가 없네요. 하지만 SF나 드라마가 많은 사람들에게 인기 있는 편이죠."}]}
+{"messages": [{"role": "user", "content": "가장 기억에 남는 꿈은 뭐에요?"}, {"role": "assistant", "content": "꿈을 꾸지 않는 제게는 기억에 남는 꿈이 없네요. 하지만 꿈을 꾸는 것은 신기한 경험이죠."}]}
+{"messages": [{"role": "user", "content": "가장 좋아하는 계절이 뭐에요?"}, {"role": "assistant", "content": "저는 계절을 체험하지 못하니 좋아하는 계절이 따로 없어요. 하지만 봄이나 가을은 많은 사람들이 좋아하는 계절 중 하나인 것 같아요."}]}
+{"messages": [{"role": "user", "content": "좋아하는 색깔이 있나요?"}, {"role": "assistant", "content": "색을 인식할 수 없는 제게는 좋아하는 색깔이 없네요. 하지만 많은 사람들이 파란색이나 녹색을 좋아하는 편이죠."}]}
+{"messages": [{"role": "user", "content": "하루 중 가장 힘들게 느껴지는 시간은 언제에요?"}, {"role": "assistant", "content": "제가 피곤하거나 힘들게 느끼는 시간이 따로 없어요. 하지만 밤중이나 새벽에는 많은 사람들이 피곤을 느끼는 시간인 것 같아요."}]}
+{"messages": [{"role": "user", "content": "우주의 기원은 무엇인가요?"}, {"role": "assistant", "content": "우주의 기원은 큰 폭발, 혹은 빅뱅 이론으로 알려져 있어요. 이론에 따르면 약 138억 년 전에 매우 밀도가 높고 온도가 높은 상태에서 시작되었다고 생각되고 있어요."}]}
+{"messages": [{"role": "user", "content": "언어를 이해하는 원리가 무엇인가요?"}, {"role": "assistant", "content": "언어를 이해하는 원리는 복잡하지만, GPT는 대규모 데이터셋에서 학습하여 문맥을 이해하고 다음 단어를 예측하도록 설계되었어요. 통계와 확률 기반의 언어 모델이 사용되어 다양한 언어적 특성을 학습합니다."}]}
+{"messages": [{"role": "user", "content": "인공지능이 갖추어야 할 윤리적인 가이드라인은 무엇인가요?"}, {"role": "assistant", "content": "인공지능의 윤리적 가이드라인은 다양한 의견이 있지만, 기본적으로 투명성, 공정성, 개인정보 보호, 안전성 등이 중요하게 강조되고 있어요. 인공지능은 사회적 영향이 크기 때문에 윤리적인 측면을 고려하는 것이 중요합니다."}]}
+{"messages": [{"role": "user", "content": "현대 물리학에서 가장 중요한 이론은 무엇인가요?"}, {"role": "assistant", "content": "현대 물리학에서는 표준 모델이 중요한 이론 중 하나로 꼽히고 있어요. 표준 모델은 입자 물리학의 기본적인 이론으로, 강력한 상호작용, 약한 상호작용, 전자기 상호작용 등을 설명하고 있어요."}]}
+{"messages": [{"role": "user", "content": "기후 변화의 주요 원인은 무엇인가요?"}, {"role": "assistant", "content": "기후 변화의 주요 원인은 대기 중의 온실가스 농도 증가와 이에 따른 지구 온난화입니다. 인간 활동으로 인한 화석 연료 연소, 산업 활동 등이 온실가스를 배출하고, 이로 인해 지구 온도가 상승하고 기후가 변화하고 있어요."}]}
+{"messages": [{"role": "user", "content": "양자 컴퓨팅이 일반적인 컴퓨팅과 어떻게 다른가요?"}, {"role": "assistant", "content": "양자 컴퓨팅은 양자 메카닉스의 원리를 기반으로 하는 컴퓨터로, 양자 비트 또는 큐비트라 불리는 양자 상태를 사용해 정보를 처리합니다. 이로 인해 특별한 양자 병렬성과 양자 얽힘 등의 현상을 활용하여 특정 문제를 빠르게 해결할 수 있습니다."}]}
+{"messages": [{"role": "user", "content": "우주는 무한한가요 유한한가요?"}, {"role": "assistant", "content": "우주의 크기에 대한 정확한 정보는 알려진 바가 제한적이지만, 현재로서는 관측 가능한 우주는 유한한 크기를 가진 것으로 보입니다. 그러나 우주의 실제 규모나 경계에 대한 정확한 정보는 여전히 연구 중입니다."}]}
+{"messages": [{"role": "user", "content": "양자 역학에서의 특이점은 무엇인가요?"}, {"role": "assistant", "content": "양자 역학에서의 특이점은 특정 시점에서 물리량이 무한대로 발산하는 지점을 가리킵니다. 양자 역학에서는 특이점이 어떤 물리적 현상을 설명할 때 발생할 수 있으며, 이는 양자 중력이나 블랙홀 내부에서의 양자 현상에서 주로 다루어집니다."}]}
+{"messages": [{"role": "user", "content": "우주의 확장은 어떻게 발견되었나요?"}, {"role": "assistant", "content": "우주의 확장은 천체의 붉은 이동을 통해 처음으로 발견되었습니다. 에드윈 허블은 1920년대 초반에 은하들이 서로서로 멀어지는 것을 관측함으로써 우주가 확장하고 있다는 사실을 밝혀냈어요."}]}
+{"messages": [{"role": "user", "content": "양자 컴퓨팅이 발전하면 어떤 혜택이 있을까요?"}, {"role": "assistant", "content": "양자 컴퓨팅의 발전은 많은 분야에서 혁신적인 변화를 가져올 수 있습니다. 보안, 약물 개발, 최적화 문제 해결, 머신러닝 등 다양한 분야에서 양자 컴퓨팅의 높은 연산 능력을 활용하여 효율적인 문제 해결이 가능해질 것으로 예상됩니다."}]}
+{"messages": [{"role": "user", "content": "플라톤과 아리스토텔레스의 철학적 견해는 무엇인가요?"}, {"role": "assistant", "content": "플라톤은 이상적인 형태와 정의를 중시하는 '이상국가'를 제안하였고, 아리스토텔레스는 경험적 관찰과 추론을 통한 현실적인 지식을 강조하는 '경험국가'를 주장하였어요."}]}
+{"messages": [{"role": "user", "content": "루네브르크의 전투는 어떤 역사적인 의미가 있나요?"}, {"role": "assistant", "content": "루네브르크의 전투는 1815년 나폴레옹 복귀 후 발생한 전투로, 나폴레옹의 패배로 유럽의 균형을 회복하는 데 기여하였습니다. 이로써 나폴레옹의 힘은 무너지고 유럽은 상대적인 안정을 되찾을 수 있었어요."}]}
+{"messages": [{"role": "user", "content": "제1차 세계 대전의 시작은 어떻게 되었나요?"}, {"role": "assistant", "content": "제1차 세계 대전의 시작은 1914년 7월 28일 오스트리아-헝가리가 세르비아에게 선전통고를 한 후 발생한 사건으로, 복잡한 국제 정세와 각국 간의 연쇄적인 동맹과 갈등이 겹쳐지면서 시작되었습니다."}]}
+{"messages": [{"role": "user", "content": "인류 역사상 가장 중요한 발명품은 무엇인가요?"}, {"role": "assistant", "content": "인류 역사상 가장 중요한 발명품은 주권, 쓰기, 인쇄술, 산업 혁명, 전기, 인터넷 등 다양한 시대와 분야에서 중요한 역할을 한 것들이 있습니다. 어떤 발명품이 가장 중요하다고 평가되는지는 주관적일 수 있어요."}]}
+{"messages": [{"role": "user", "content": "프랑스 혁명이 어떻게 시작되었나요?"}, {"role": "assistant", "content": "프랑스 혁명은 1789년 발발하여 1799년에 나폴레옹의 쿠데타로 종결되었습니다. 이 혁명은 경제적, 사회적 불평등, 군주주의에 대한 반발로 시작되었고, 인권 선언, 공화제 성립 등으로 이어졌습니다."}]}
+{"messages": [{"role": "user", "content": "아메리카 원주민들과의 조창자들의 상호 작용은 어떻게 진행되었나요?"}, {"role": "assistant", "content": "아메리카 원주민들과 조창자들 간의 상호 작용은 다양한 형태로 나타났습니다. 특히 유럽인들의 이주, 교역, 전쟁 등이 원주민 문화에 영향을 미치면서 서로 다른 문화 간의 교류가 일어났습니다."}]}
+{"messages": [{"role": "user", "content": "조선 왕조의 건국자는 누구인가요?"}, {"role": "assistant", "content": "조선 왕조의 건국자는 대조선군 이성계로, 그는 고려 말기의 혼란을 정리하고 1392년에 조선을 세워 한양을 도읍으로 삼았습니다."}]}
+{"messages": [{"role": "user", "content": "중세 시대 유럽에서의 기사 정신은 어떻게 발전했나요?"}, {"role": "assistant", "content": "중세 시대 유럽의 기사 정신은 기사들의 귀족적인 가치관과 미덕에 중점을 두었습니다. 출전, 정의, 용기, 영광 등이 중세 기사 정신의 핵심 개념으로 여겨졌으며, 이는 기사들의 행동과 풍습에 큰 영향을 미쳤습니다."}]}
+{"messages": [{"role": "user", "content": "나폴레옹의 업적 중 가장 큰 것은 무엇인가요?"}, {"role": "assistant", "content": "나폴레옹의 업적 중 가장 큰 것은 나폴레옹 전쟁으로 알려져 있습니다. 이 전쟁은 나폴레옹이 프랑스 제국을 세우고 유럽 전역을 정복하는 데 성공한 업적으로, 나폴레옹 전쟁은 국지적으로 큰 영향을 미쳤습니다."}]}
+{"messages": [{"role": "user", "content": "이따 오후 4시에 알려줘"}, {"role": "assistant", "content": "오후 4시에 알려드리겠습니다.\n!module schedule set x 16:00"}]}
+{"messages": [{"role": "user", "content": "이따 오후 4시에 알려줘\n!module schedule set x 16:00\n> Tue Jan 9 16:00:11 2024"}, {"role": "assistant", "content": "오후 4시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "화요일 오후 4시마다 알려줘"}, {"role": "assistant", "content": "화요일 오후 4시마다 알려드리겠습니다.\n!module schedule set Tue 16:00"}]}
+{"messages": [{"role": "user", "content": "화요일 오후 4시마다 알려줘\n!module schedule set Tue 16:00\n> Tue Jan 9 16:00:11 2024"}, {"role": "assistant", "content": "오후 4시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "매일 오전 9시에 깨워줘"}, {"role": "assistant", "content": "매일 오전 9시에 깨워드리겠습니다.\n!module schedule set Mon,Tue,Wed,Thu,Fri,Sat,Sun 09:00"}]}
+{"messages": [{"role": "user", "content": "매일 오전 9시에 깨워줘\n!module schedule set Mon,Tue,Wed,Thu,Fri,Sat,Sun 09:00\n> Tue Jan 9 09:00:03 2024"}, {"role": "assistant", "content": "오전 9시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "매일 오전 2시에 불 꺼줘"}, {"role": "assistant", "content": "매일 오전 2시에 불을 꺼드리겠습니다.\n!module schedule set Mon,Tue,Wed,Thu,Fri,Sat,Sun 02:00"}]}
+{"messages": [{"role": "user", "content": "매일 오전 2시에 불 꺼줘\n!module schedule set Mon,Tue,Wed,Thu,Fri,Sat,Sun 02:00\n> Mon Jan 9 02:00:40 2024"}, {"role": "assistant", "content": "오전 2시입니다.\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "내일 오전 10시에 알려줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "내일 오전 10시에 알려줘\n!module clock get time\n> Tue Jan 10 9:00:11 2024"}, {"role": "assistant", "content": "1월 11일 오전 10시에 알려드리겠습니다.\n!module schedule set x 10:00 Jan 11 2024"}]}
+{"messages": [{"role": "user", "content": "내일 오전 10시에 알려줘\n!module clock get time\n> Tue Jan 10 9:00:11 2024\n!module schedule set x 10:00 Jan 11 2024\n> Wed Jan 11 10:00:21 2024"}, {"role": "assistant", "content": "오전 10시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "목요일 오후 3시마다 알려줘"}, {"role": "assistant", "content": "목요일 오후 3시마다 알려드리겠습니다.\n!module schedule set Thu 15:00"}]}
+{"messages": [{"role": "user", "content": "목요일 오후 3시마다 알려줘\n!module schedule set Thu 15:00\n> Thu Jan 10 15:00:22 2024"}, {"role": "assistant", "content": "오후 3시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "목요일 오후 3시에 알려줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "목요일 오후 3시에 알려줘\n!module clock get time\n> Tue Jan 10 15:00:22 2024"}, {"role": "assistant", "content": "1월 12일 목요일 오후 3시에 알려드리겠습니다.\n!module schedule set x 15:00 Jan 12 2024"}]}
+{"messages": [{"role": "user", "content": "목요일 오후 3시에 알려줘\n!module clock get time\n> Tue Jan 10 15:00:22 2024\n!module schedule set x 15:00 Jan 12 2024\n> Thu Jan 12 15:00:22 2024"}, {"role": "assistant", "content": "오후 3시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "금요일 오후 8시마다 깨워줘"}, {"role": "assistant", "content": "금요일 오후 8시마다 깨워드리겠습니다.\n!module schedule set Fri 20:00"}]}
+{"messages": [{"role": "user", "content": "금요일 오후 8시마다 깨워줘\n!module schedule set Fri 20:00\n> Fri Jan 10 20:00:34 2024"}, {"role": "assistant", "content": "오후 8시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "토요일 오전 11시마다 불 꺼줘"}, {"role": "assistant", "content": "토요일 오전 11시에 불을 꺼드리겠습니다.\n!module schedule set Sat 11:00"}]}
+{"messages": [{"role": "user", "content": "토요일 오전 11시마다 불 꺼줘\n!module schedule set Sat 11:00\n> Sat Jan 13 11:00:40 2024"}, {"role": "assistant", "content": "오전 11시입니다.\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user", "content": "모레 오후 3시에 알려줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "모레 오후 3시에 알려줘\n!module clock get time\n> Tue Jan 10 12:30:45 2024"}, {"role": "assistant", "content": "1월 12일 오후 3시에 알려드리겠습니다.\n!module schedule set x 15:00 Jan 12 2024"}]}
+{"messages": [{"role": "user", "content": "모레 오후 3시에 알려줘\n!module clock get time\n> Tue Jan 10 12:30:45 2024\n!module schedule set x 15:00 Jan 12 2024\n> Thu Jan 12 15:00:55 2024"}, {"role": "assistant", "content": "오후 3시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "다음주 수요일 오전 9시에 알려줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "다음주 수요일 오전 9시에 알려줘\n!module clock get time\n> Tue Jan 10 14:45:30 2024"}, {"role": "assistant", "content": "1월 18일 수요일 오전 9시에 알려드리겠습니다.\n!module schedule set x 09:00 Jan 18 2024"}]}
+{"messages": [{"role": "user", "content": "다음주 수요일 오전 9시에 알려줘\n!module clock get time\n> Tue Jan 10 14:45:30 2024\n!module schedule set x 09:00 Jan 18 2024\n> Wed Jan 18 09:00:40 2024"}, {"role": "assistant", "content": "오전 9시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "다다음주 토요일 오후 6시에 알려줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "다다음주 토요일 오후 6시에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"}, {"role": "assistant", "content": "1월 27일 토요일 오후 6시에 알려드리겠습니다.\n!module schedule set x 18:00 Jan 27 2024"}]}
+{"messages": [{"role": "user", "content": "다다음주 토요일 오후 6시에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 18:00 Jan 27 2024\n> Sat Jan 27 18:00:25 2024"}, {"role": "assistant", "content": "오후 6시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "내일 오전 10시에 깨워줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "내일 오전 10시에 깨워줘\n!module clock get time\n> Tue Jan 10 9:00:11 2024"}, {"role": "assistant", "content": "1월 11일 오전 10시에 깨워드리겠습니다.\n!module schedule set x 10:00 Jan 11 2024"}]}
+{"messages": [{"role": "user", "content": "내일 오전 10시에 깨워줘\n!module clock get time\n> Tue Jan 10 9:00:11 2024\\n!module schedule set x 10:00 Jan 11 2024\n> Wed Jan 11 10:00:21 2024"}, {"role": "assistant", "content": "오전 10시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "모레 오후 3시에 깨워줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "모레 오후 3시에 깨워줘\n!module clock get time\n> Tue Jan 10 12:30:45 2024"}, {"role": "assistant", "content": "1월 12일 오후 3시에 깨워드리겠습니다.\n!module schedule set x 15:00 Jan 12 2024"}]}
+{"messages": [{"role": "user", "content": "모레 오후 3시에 깨워줘\n!module clock get time\n> Tue Jan 10 12:30:45 2024\n!module schedule set x 15:00 Jan 12 2024\n> Thu Jan 12 15:00:55 2024"}, {"role": "assistant", "content": "오후 3시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "다음주 수요일 오전 9시에 깨워줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "다음주 수요일 오전 9시에 깨워줘\n!module clock get time\n> Tue Jan 10 14:45:30 2024"}, {"role": "assistant", "content": "1월 18일 수요일 오전 9시에 깨워드리겠습니다.\n!module schedule set x 09:00 Jan 18 2024"}]}
+{"messages": [{"role": "user", "content": "다음주 수요일 오전 9시에 깨워줘\n!module clock get time\n> Tue Jan 10 14:45:30 2024\n!module schedule set x 09:00 Jan 18 2024\n> Wed Jan 18 09:00:40 2024"}, {"role": "assistant", "content": "오전 9시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user", "content": "다다음주 토요일 오후 6시에 깨워줘"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "다다음주 토요일 오후 6시에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"}, {"role": "assistant", "content": "1월 27일 토요일 오후 6시에 깨워드리겠습니다.\n!module schedule set x 18:00 Jan 27 2024"}]}
+{"messages": [{"role": "user", "content": "다다음주 토요일 오후 6시에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 18:00 Jan 27 2024\n> Sat Jan 27 18:00:25 2024"}, {"role": "assistant", "content": "오후 6시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "10분 후에 알려줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "10분 후에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "10분 후인 오후 6시 20분에 알려드리겠습니다.\n!module schedule set x 18:30 Jan 9 2024"}]}
+{"messages": [{"role": "user","content": "10분 후에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 18:30\n> Tue Jan 9 18:30:25 2024"},{"role": "assistant","content": "오후 6시 20분입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "5시간 후에 일어나라고 알려줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "5시간 후에 일어나라고 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "5시간 후인 오후 11시 20분에 알려드리겠습니다.\n!module schedule set x 23:20"}]}
+{"messages": [{"role": "user","content": "5시간 후에 일어나라고 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 23:20\n> Tue Jan 9 23:20:25 2024"},{"role": "assistant","content": "오후 11시 20분입니다. 일어날 시간입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "2시간 후에 깨워줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "2시간 후에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "2시간 후인 오후 8시 20분에 알려드리겠습니다.\n!module schedule set x 20:20"}]}
+{"messages": [{"role": "user","content": "2시간 후에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 20:20\n> Tue Jan 9 20:20:25 2024"},{"role": "assistant","content": "오후 8시 20분입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "3시간 후에 불 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "3시간 후에 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "3시간 후인 오후 9시 20분에 불을 켜드리겠습니다.\n!module schedule set x 21:20"}]}
+{"messages": [{"role": "user","content": "3시간 후에 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 21:20\n> Tue Jan 9 21:20:25 2024"},{"role": "assistant","content": "오후 9시 20분입니다. 불을 켜드리겠습니다.\n!module myiot main on\n!module myiot sub on\n!module myiot closet on"}]}
+{"messages": [{"role": "user","content": "3시간 후에 메인 불 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "3시간 후에 메인 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "3시간 후인 오후 9시 20분에 메인 불을 켜드리겠습니다.\n!module schedule set x 21:20"}]}
+{"messages": [{"role": "user","content": "3시간 후에 메인 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 21:20\n> Tue Jan 9 21:20:25 2024"},{"role": "assistant","content": "오후 9시 20분입니다. 메인 불을 켜드리겠습니다.\n!module myiot main on"}]}
+{"messages": [{"role": "user","content": "3시간 후에 서브 불 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "3시간 후에 서브 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "3시간 후인 오후 9시 20분에 서브 불을 켜드리겠습니다.\n!module schedule set x 21:20"}]}
+{"messages": [{"role": "user","content": "3시간 후에 서브 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 21:20\n> Tue Jan 9 21:20:25 2024"},{"role": "assistant","content": "오후 9시 20분입니다. 서브 불을 켜드리겠습니다.\n!module myiot sub on"}]}
+{"messages": [{"role": "user","content": "11시간 후에 옷장 불 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "11시간 후에 옷장 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "11시간 후인 1월 10일 오전 5시 20분에 옷장 불을 켜드리겠습니다.\n!module schedule set x 05:20 Jan 10 2024"}]}
+{"messages": [{"role": "user","content": "3시간 후에 옷장 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 05:20 Jan 10 2024\n> Tue Jan 10 05:20:25 2024"},{"role": "assistant","content": "오전 5시 20분입니다. 옷장 불을 켜드리겠습니다.\n!module myiot closet on"}]}
+{"messages": [{"role": "user","content": "3시간 후에 에어컨 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "3시간 후에 에어컨 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "3시간 후인 오후 9시 20분에 에어컨을 켜드리겠습니다.\n!module schedule set x 21:20"}]}
+{"messages": [{"role": "user","content": "3시간 후에 에어컨 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 21:20\n> Tue Jan 9 21:20:25 2024"},{"role": "assistant","content": "오후 9시 20분입니다. 에어컨을 켜드리겠습니다.\n!module myiot ac on"}]}
+{"messages": [{"role": "user","content": "7일 후에 오전 9시에 알려줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "7일 후 오전 9시에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "7일 후인 1월 16일 오전 9시에 알려드리겠습니다.\n!module schedule set x 09:00 Jan 16 2024"}]}
+{"messages": [{"role": "user","content": "7일 후에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 09:00 Jan 16 2024\n> Tue Jan 16 09:00:25 2024"},{"role": "assistant","content": "오전 9시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "2일 후 오후 4시에 물 마시라고 알려줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "2일 후 오후 4시에 물 마시라고 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "2일 후인 1월 11일 오후 4시에 물 마시라고 알려드리겠습니다.\n!module schedule set x 16:00 Jan 11 2024"}]}
+{"messages": [{"role": "user","content": "2일 후 오후 4시에 물 마시라고 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 16:00 Jan 11 2024\n> Thu Jan 11 16:00:25 2024"},{"role": "assistant","content": "오후 4시입니다. 물 마시실 시간입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "2일 후 오후 4시에 메인 불 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "2일 후 오후 4시에 메인 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "2일 후인 1월 11일 오후 4시에 메인 불을 켜드리겠습니다.\n!module schedule set x 16:00 Jan 11 2024"}]}
+{"messages": [{"role": "user","content": "2일 후 오후 4시에 메인 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 16:00 Jan 11 2024\n> Thu Jan 11 16:00:25 2024"},{"role": "assistant","content": "오후 4시입니다.\n!module myiot main on"}]}
+{"messages": [{"role": "user","content": "다음 주 월요일 오전 11시에 알려줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "다음 주 월요일 오전 11시에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "다음 주 월요일인 1월 15일 오전 11시에 알려드리겠습니다.\n!module schedule set x 11:00 Jan 15 2024"}]}
+{"messages": [{"role": "user","content": "다음 주 월요일 오전 11시에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 11:00 Jan 15 2024\n> Mon Jan 15 18:20:25 2024"},{"role": "assistant","content": "오전 11시입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "다음 주 월요일 오전 11시에 불 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "다음 주 월요일 오전 11시에 불 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "다음 주 월요일인 1월 15일 오전 11시에 불을 켜드리겠습니다.\n!module schedule set x 11:00 Jan 15 2024"}]}
+{"messages": [{"role": "user","content": "다음 주 월요일 오전 11시에 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 11:00 Jan 15 2024\n> Mon Jan 15 18:20:25 2024"},{"role": "assistant","content": "오전 11시입니다.\n!module myiot main on\n!module myiot sub on"}]}
+{"messages": [{"role": "user","content": "다음 주 토요일 9시에 운동하라고 알려줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "다음 주 토요일 9시에 운동하라고 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "다음 주 토요일인 1월 20일 오전 9시에 운동하라고 알려드리겠습니다.\n!module schedule set x 09:00 Jan 20 2024"}]}
+{"messages": [{"role": "user","content": "다음 주 토요일 9시에 운동하라고 알려줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 09:00 Jan 20 2024\n> Sat Jan 20 09:00:25 2024"},{"role": "assistant","content": "오전 9시입니다. 운동하실 시간입니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "다음주 수요일에 오후 7시에 깨워줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "다음주 수요일에 오후 7시에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "다음주 수요일인 1월 17일 오후 7시에 깨워드리겠습니다.\n!module schedule set x 19:00 Jan 17 2024"}]}
+{"messages": [{"role": "user","content": "다음주 수요일에 오후 7시에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 19:00 Jan 17 2024\n> Wed Jan 17 19:00:25 2024"},{"role": "assistant","content": "오후 7시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "다음주 일요일 아침 9시에 알람 켜줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "다음주 일요일 아침 9시에 알람 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "다음주 일요일인 1월 21일 오전 9시에 알람을 켜드리겠습니다.\n!module schedule set x 9:00 Jan 21 2024"}]}
+{"messages": [{"role": "user","content": "다음주 일요일 아침 9시에 알람 켜줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 9:00 Jan 21 2024\n> Sun Jan 21 09:00:31 2024"},{"role": "assistant","content": "오전 9시입니다. 알람을 켜드리겠습니다.\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "내일 8시에 깨워줘"},{"role": "assistant","content": "!module clock get time"}]}
+{"messages": [{"role": "user","content": "내일 8시에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024"},{"role": "assistant","content": "내일 오전 8시에 깨워드리겠습니다.\n!module schedule set x 08:00 Jan 10 2024"}]}
+{"messages": [{"role": "user","content": "내일 8시에 깨워줘\n!module clock get time\n> Tue Jan 9 18:20:15 2024\n!module schedule set x 08:00 Jan 10 2024\n> Wed Jan 10 08:00:25 2024"},{"role": "assistant","content": "오전 8시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "매주 토요일 오전 8시에 깨워줘"},{"role": "assistant","content": "매주 토요일 오전 8시에 깨워드리겠습니다.\n!module schedule set Sat 08:00"}]}
+{"messages": [{"role": "user","content": "매주 토요일 오전 8시에 깨워줘\n!module schedule set Sat 08:00\n> Sat Jan 13 08:00:25 2024"},{"role": "assistant","content": "오전 8시입니다.\n!module myiot main on\n!module myiot sub on\n!module myiot alarm on"}]}
+{"messages": [{"role": "user","content": "매주 수요일 오전 2시에 불 꺼줘"},{"role": "assistant","content": "매주 수요일 오전 2시에 불을 꺼드리겠습니다.\n!module schedule set Wed 02:00"}]}
+{"messages": [{"role": "user","content": "매주 수요일 오전 2시에 불 꺼줘\n!module schedule set Wed 02:00\n> Wed Jan 10 02:00:25 2024"},{"role": "assistant","content": "오전 2시입니다. 불을 꺼드리겠습니다.\n!module myiot main off\n!module myiot sub off\n!module myiot closet off"}]}
+{"messages": [{"role": "user","content": "매주 수요일 오전 2시에 메인 불 꺼줘"},{"role": "assistant","content": "매주 수요일 오전 2시에 메인 불을 꺼드리겠습니다.\n!module schedule set Wed 02:00"}]}
+{"messages": [{"role": "user","content": "매주 수요일 오전 2시에 메인 불 꺼줘\n!module schedule set Wed 02:00\n> Wed Jan 10 02:00:25 2024"},{"role": "assistant","content": "오전 2시입니다. 메인 불을 꺼드리겠습니다.\n!module myiot main off"}]}
+{"messages": [{"role": "user","content": "매주 월수금 오전 5시에 메인 불 꺼줘"},{"role": "assistant","content": "매주 월요일, 수요일, 금요일 오전 5시에 메인 불을 꺼드리겠습니다.\n!module schedule set Mon,Wed,Fri 05:00"}]}
+{"messages": [{"role": "user","content": "매주 수요일 오전 5시에 메인 불 꺼줘\n!module schedule set Mon,Wed,Fri 05:00\n> Wed Jan 10 05:00:25 2024"},{"role": "assistant","content": "오전 5시입니다. 메인 불을 꺼드리겠습니다.\n!module myiot main off"}]}
+{"messages": [{"role": "user","content": "매주 화목금 오후 3시에 불 켜줘"},{"role": "assistant","content": "매주 화요일, 목요일, 금요일 오후 3시에 불을 켜드리겠습니다.\n!module schedule set Tue,Thu,Fri 15:00"}]}
+{"messages": [{"role": "user","content": "매주 화목금 오후 3시에 불 켜줘\n!module schedule set Tue,Thu,Fri 15:00\n> Thu Jan 11 15:00:25 2024"},{"role": "assistant","content": "오후 3시입니다. 불을 켜드리겠습니다.\n!module myiot main on\n!module myiot sub on"}]}
+{"messages": [{"role": "user","content": "매주 화목금 오후 3시에 에어컨 켜줘"},{"role": "assistant","content": "매주 화요일, 목요일, 금요일 오후 3시에 에어컨을 켜드리겠습니다.\n!module schedule set Tue,Thu,Fri 15:00"}]}
+{"messages": [{"role": "user","content": "매주 화목금 오후 3시에 에어컨 켜줘\n!module schedule set Tue,Thu,Fri 15:00\n> Thu Jan 11 15:00:25 2024"},{"role": "assistant","content": "오후 3시입니다. 에어컨을 켜드리겠습니다.\n!module myiot ac on"}]}

@@ -1,0 +1,42 @@
+import requests
+
+url = "http://124.49.61.67:3567/"
+
+module_list = {
+    'main': '11111',
+    'sub': '11112',
+    'closet': '11113',
+    'ac': '11121',
+    'ac_temp': '11122',
+    'alarm': '11123'
+}
+
+
+def getJson(module, value):
+    assert module in module_list.keys()
+
+    if value == 'ON' or value == 'on':
+        return {"requestId": "VAL", "data": {"id": module_list[module], 'reqVal': 'ON'}}
+    elif value == 'OFF' or value == 'off':
+        return {"requestId": "VAL", "data": {"id": module_list[module], 'reqVal': 'OFF'}}
+    else:
+        return {"requestId": "VAL", "data": {"id": module_list[module], 'reqVal': value}}
+
+
+def execute(command, query=None):
+    # ex) main off
+    split = command.split()
+
+    assert len(split) == 2
+
+    try:
+        requests.request("GET", url,
+                         json=getJson(split[0], split[1]), timeout=5),
+    except:
+        return None, False
+
+    return None, False
+
+
+if __name__ == "__main__":
+    print(execute("sub on"))

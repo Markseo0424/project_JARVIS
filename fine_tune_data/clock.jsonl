@@ -1,0 +1,51 @@
+{"messages": [{"role": "user", "content": "지금 몇시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "올해는 몇년도야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금은 몇 년이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "오늘은 몇 일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 분이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 초야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재 몇 년이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "오늘은 몇 일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 분이야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "몇 초야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금 몇시야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "지금은 오전 11시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "올해는 몇년도야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "올해는 2024년입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 년이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "올해는 2024년입니다."}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "이번 달은 1월입니다."}]}
+{"messages": [{"role": "user", "content": "오늘은 며칠이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "오늘은 1월 9일입니다."}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "이번 주는 화요일입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "지금은 오전 11시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "몇 분이야?\n!module clock get time\n> Tue Jan 9 11:15:11 2024"}, {"role": "assistant", "content": "현재는 15분입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 년이야?\n!module clock get time\n> Wed Feb 15 14:30:25 2024"}, {"role": "assistant", "content": "올해는 2024년입니다."}]}
+{"messages": [{"role": "user", "content": "이번 달은 몇 월이야?\n!module clock get time\n> Fri Mar 21 09:45:18 2024"}, {"role": "assistant", "content": "이번 달은 3월입니다."}]}
+{"messages": [{"role": "user", "content": "오늘은 몇 일이야?\n!module clock get time\n> Mon Apr 3 20:12:03 2024"}, {"role": "assistant", "content": "오늘은 4월 3일입니다."}]}
+{"messages": [{"role": "user", "content": "이번 주는 무슨 요일이야?\n!module clock get time\n> Sat May 5 12:00:00 2024"}, {"role": "assistant", "content": "이번 주는 토요일입니다."}]}
+{"messages": [{"role": "user", "content": "몇 분이야?\n!module clock get time\n> Tue Jul 10 07:23:15 2024"}, {"role": "assistant", "content": "현재는 23분입니다."}]}
+{"messages": [{"role": "user", "content": "지금 몇 시야?\n!module clock get time\n> Thu Jun 7 18:55:40 2024"}, {"role": "assistant", "content": "지금은 오후 6시 55분입니다."}]}
+{"messages": [{"role": "user", "content": "지금으로부터 한시간 뒤면 몇시야?\n!module clock get time\n> Tue Jul 10 07:23:15 2024"}, {"role": "assistant", "content": "지금으로부터 한시간 뒤는 오전 8시 23분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 두시간 뒤면 몇시야?\n!module clock get time\n> Fri Oct 25 14:12:05 2025"}, {"role": "assistant", "content": "현재로부터 두시간 뒤는 오후 4시 12분입니다."}]}
+{"messages": [{"role": "user", "content": "지금으로부터 30분 후는 몇 시일까요?\n!module clock get time\n> Mon Mar 15 09:30:30 2023"}, {"role": "assistant", "content": "지금으로부터 30분 후는 오전 10시 0분입니다."}]}
+{"messages": [{"role": "user", "content": "한시간 뒤는 몇 시인가요?\n!module clock get time\n> Wed Jun 8 18:45:15 2022"}, {"role": "assistant", "content": "한시간 뒤는 오후 7시 45분입니다."}]}
+{"messages": [{"role": "user", "content": "지금으로부터 세 시간 뒤는 몇 시일까요?\n!module clock get time\n> Sun Sep 17 11:05:50 2023"}, {"role": "assistant", "content": "지금으로부터 세 시간 뒤는 오후 2시 5분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 45분 후는 언제인가요?\n!module clock get time\n> Sat Feb 9 16:30:20 2025"}, {"role": "assistant", "content": "현재로부터 45분 후는 오후 5시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "두 시간 후는 몇 시인가요?\n!module clock get time\n> Tue Apr 12 23:50:55 2022"}, {"role": "assistant", "content": "두 시간 후는 새벽 1시 50분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 네 시간 뒤는 몇 시일까요?\n!module clock get time\n> Thu Jul 21 19:15:25 2022"}, {"role": "assistant", "content": "현재로부터 네 시간 뒤는 밤 11시 15분입니다."}]}
+{"messages": [{"role": "user", "content": "한 시간 후는 몇 시일까요?\n!module clock get time\n> Fri May 26 03:45:10 2023"}, {"role": "assistant", "content": "한 시간 후는 새벽 4시 45분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 15분 후는 몇 시인가요?\n!module clock get time\n> Mon Aug 14 20:20:35 2022"}, {"role": "assistant", "content": "현재로부터 15분 후는 밤 8시 35분입니다."}]}
+{"messages": [{"role": "user", "content": "세 시간 뒤는 몇 시일까요?\n!module clock get time\n> Tue Dec 19 14:55:45 2023"}, {"role": "assistant", "content": "세 시간 뒤는 오후 5시 55분입니다."}]}
+{"messages": [{"role": "user", "content": "현재로부터 두시간 뒤면 몇시야?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금으로부터 30분 후는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "한시간 뒤는 몇 시인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "지금으로부터 세 시간 뒤는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재로부터 45분 후는 언제인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "두 시간 후는 몇 시인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재로부터 네 시간 뒤는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "한 시간 후는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "현재로부터 15분 후는 몇 시인가요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
+{"messages": [{"role": "user", "content": "세 시간 뒤는 몇 시일까요?"}, {"role": "assistant", "content": "\n!module clock get time"}]}
