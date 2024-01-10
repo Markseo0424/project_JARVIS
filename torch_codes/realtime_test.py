@@ -28,7 +28,7 @@ mel_spectrogram = nn.Sequential(
 )
 
 model = module.MyModule().to(device)
-model.load_state_dict(torch.load("trained_models/clap_train_LSTM.pth", map_location=device))
+model.load_state_dict(torch.load("trained_models/clap_train_LSTM_1.pth", map_location=device))
 
 h0 = torch.zeros((5, 128), device=device)
 c0 = torch.zeros((5, 128), device=device)

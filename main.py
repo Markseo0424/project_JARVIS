@@ -28,13 +28,14 @@ mel_spectrogram = nn.Sequential(
 )
 
 model = module.MyModule().to(device)
-model.load_state_dict(torch.load("torch_codes/trained_models/clap_train_LSTM.pth", map_location=device))
+model.load_state_dict(torch.load("torch_codes/trained_models/clap_train_LSTM_2.pth", map_location=device))
 
 h0 = torch.zeros((5, 128), device=device)
 c0 = torch.zeros((5, 128), device=device)
 
 history = torch.zeros((1, 160000))
 history_index = 0
+
 
 def clap_predict(indata, frames, t, status):
     # print(indata.shape)
@@ -51,7 +52,7 @@ def clap_predict(indata, frames, t, status):
     # print(x.T.shape)
     with torch.no_grad():
         pred, h0, c0 = model(x.T.to(device), h0, c0)
-        #print(pred)
+        # print(pred)
         if pred[1] - pred[0] > 5:
             flag = 0
 
@@ -74,14 +75,15 @@ while True:
                 print("query : ", query)
             continue
 
+    flag = True
+
     if not trigger:
         print("clap!")
 
         h0 = torch.zeros((5, 128), device=device)
         c0 = torch.zeros((5, 128), device=device)
-        flag = True
         torchaudio.save(f'./sample_wav/pred_true_wav/test{str(file_count).zfill(5)}.wav',
-                        history[:,-16000 * history_index:], 16000)
+                        history[:, -16000 * history_index:], 16000)
         file_count += 1
         history = torch.zeros((1, 160000))
         history_index = 0
