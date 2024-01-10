@@ -1,6 +1,9 @@
 import requests
+from dotenv import load_dotenv
 
-url = "http://124.49.61.67:3567/"
+load_dotenv()
+
+url = os.environ.get('MYIOT_SERVER_IP')
 
 module_list = {
     'main': '11111',
