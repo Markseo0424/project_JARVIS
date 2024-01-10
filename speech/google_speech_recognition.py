@@ -13,7 +13,7 @@ def speech_to_text(filename):
     with mic as source:  # 안녕~이라고 말하면
         winsound.PlaySound("./sound_asset/record_start.wav", winsound.SND_FILENAME)
         print("start speech : ")
-        audio = Recognizer.listen(source)
+        audio = Recognizer.listen(source, phrase_time_limit=10)
         winsound.PlaySound("./sound_asset/record_done.wav", winsound.SND_FILENAME)
     try:
         data = Recognizer.recognize_google(audio, language="ko")
