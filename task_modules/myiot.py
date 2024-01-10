@@ -20,6 +20,7 @@ def getJson(module, value):
     elif value == 'OFF' or value == 'off':
         return {"requestId": "VAL", "data": {"id": module_list[module], 'reqVal': 'OFF'}}
     else:
+        assert value.isnumeric()
         return {"requestId": "VAL", "data": {"id": module_list[module], 'reqVal': value}}
 
 
@@ -28,10 +29,11 @@ def execute(command, query=None):
     split = command.split()
 
     assert len(split) == 2
+    jsonData = getJson(split[0], split[1])
 
     try:
         requests.request("GET", url,
-                         json=getJson(split[0], split[1]), timeout=5),
+                         json=jsonData, timeout=5),
     except:
         return None, False
 
